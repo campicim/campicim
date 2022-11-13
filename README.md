@@ -14,7 +14,7 @@
 ![CSharp](https://img.shields.io/badge/C%23-8e00d6?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-009000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6cf7e5?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JS-JavaScript-orange?style=for-the-badge)
+![JS](https://img.shields.io/badge/JS-JavaScript-orange??style=for-the-badge&logo=javascript)
 <h3 align="center"> DataBase: </h3>
 
 ![Sql](https://img.shields.io/badge/SQL-4e91ff?style=for-the-badge&logo=SQL&logoColor=white)
